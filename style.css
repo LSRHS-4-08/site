@@ -1,0 +1,24 @@
+body{
+  color: MediumSlateBlue;
+  background-color: Black;
+  font-size: 20pt;
+
+}
+
+h1{
+  color: LightSkyBlue;
+  font-family:"droid serif", serif;
+  font-size: 40pt;
+}
+h2{
+  color: DarkTurquoise;
+  font-family:"droid serif", serif;
+  font-size: 20pt;
+}
+h3{
+  color:
+}
+
+table, th, td {
+  border: 1px solid White;
+}
