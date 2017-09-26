@@ -1,5 +1,6 @@
 body{
   color: MediumSlateBlue;
+  font-family:"droid serif", serif;
   background-color: Black;
   font-size: 20pt;
 
@@ -10,13 +11,17 @@ h1{
   font-family:"droid serif", serif;
   font-size: 40pt;
 }
+
 h2{
   color: DarkTurquoise;
   font-family:"droid serif", serif;
   font-size: 20pt;
 }
+
 h3{
-  color:
+  color: purple;
+  font-family:"droid serif", serif;
+  font-size: 20pt;
 }
 
 table, th, td {
