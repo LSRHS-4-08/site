@@ -1,0 +1,9 @@
+table, th, td{
+  border:2px solid blue;
+}
+body {
+  color: Fuchsia;
+  background-color: lightblue;
+  font-size: 10pt;
+  font-family: "Verdana", serif;
+}
