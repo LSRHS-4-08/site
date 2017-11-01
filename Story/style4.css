@@ -1,0 +1,25 @@
+table{
+  border:8px solid DarkOrange;
+}
+body {
+  color: DarkOrange;
+  background-color: Black;
+  font-size: 30pt;
+  font-family: "Herculanum", serif;
+}
+td{ padding:30px;
+width: 40px;
+}
+ul{
+  list-style-type: none;
+  padding: 20px;
+
+}
+
+li{
+  font-size: 30px;
+  margin:40px;
+
+}
+h2{ color: yellow;
+font-size: 20px;}
